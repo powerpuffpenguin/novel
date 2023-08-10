@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:novel/i18n/generated_i18n.dart';
+import 'package:novel/pages/component/drawer.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({
@@ -16,6 +17,10 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(S.of(context).appName),
+      ),
+      drawer: const MyDrawerView(
+        home: false,
+        back: false,
       ),
     );
   }

@@ -1,7 +1,7 @@
 {
   "@@last_modified": "2023-08-10T09:14:58.166555",
   "@@locale": "zh_CN",
-  "idae": "",
+  "idae": "{name} is an idae",
   "@idae": {
     "description": "example for message input args",
     "type": "text",
@@ -13,6 +13,150 @@
   },
   "App Name": "蜘蛛小说",
   "@App Name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.checkClear": "清空选项",
+  "@App.checkClear": {
+    "description": "清空選項 按鈕/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.copiedURL": "网址已复制",
+  "@App.copiedURL": {
+    "description": "網址已拷貝",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.copyURL": "复制网址",
+  "@App.copyURL": {
+    "description": "拷貝網址",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.help": "帮助",
+  "@App.help": {
+    "description": "幫助 按鈕/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.home": "首页",
+  "@App.home": {
+    "description": "首頁 按鈕/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.issuesHelp": "寻求帮助",
+  "@App.issuesHelp": {
+    "description": "尋求幫助 按鈕/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.loading": "正在加载中...",
+  "@App.loading": {
+    "description": "正在加載中... 提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.openInBrowser": "浏览器中打开",
+  "@App.openInBrowser": {
+    "description": "瀏覽器中打開",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.refresh": "刷新",
+  "@App.refresh": {
+    "description": "刷新 按鈕/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.reivew": "提供意见",
+  "@App.reivew": {
+    "description": "提供意見 按鈕/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.save": "保存",
+  "@App.save": {
+    "description": "保存 按鈕/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.saveSucess": "数据已保存",
+  "@App.saveSucess": {
+    "description": "提示信息 : 數據已保存",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.settings": "设定",
+  "@App.settings": {
+    "description": "設定 按鈕/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.share": "分享",
+  "@App.share": {
+    "description": "分享",
+    "type": "text",
+    "placeholders": {}
+  },
+  "App.sucess": "成功",
+  "@App.sucess": {
+    "description": "成功 標題/提示文本",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Error.noChanged": "没有数据改变",
+  "@Error.noChanged": {
+    "description": "錯誤信息 : 沒有數據改變",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Error.title": "错误",
+  "@Error.title": {
+    "description": "頁面標題 錯誤信息顯示",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Log.clear": "清除日志",
+  "@Log.clear": {
+    "description": "清除日誌",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Log.title": "日志",
+  "@Log.title": {
+    "description": "日誌",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Settings.language": "语言设定",
+  "@Settings.language": {
+    "description": "語言設定",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Settings.systemDefault": "系统默认",
+  "@Settings.systemDefault": {
+    "description": "系統默認",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Settings.theme": "主题设定",
+  "@Settings.theme": {
+    "description": "主題設定",
+    "type": "text",
+    "placeholders": {}
+  },
+  "Settings.title": "系统设定",
+  "@Settings.title": {
+    "description": "頁面標題 : 系統設定",
+    "type": "text",
+    "placeholders": {}
+  },
+  "SettingsLanguage.title": "语言设定",
+  "@SettingsLanguage.title": {
+    "description": "頁面標題 : 語言設定",
     "type": "text",
     "placeholders": {}
   }
