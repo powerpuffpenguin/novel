@@ -1,0 +1,19 @@
+{
+  "@@last_modified": "2023-08-10T09:14:58.166555",
+  "@@locale": "zh_CN",
+  "idae": "",
+  "@idae": {
+    "description": "example for message input args",
+    "type": "text",
+    "placeholders": {
+      "name": {
+        "example": "cerberus"
+      }
+    }
+  },
+  "App Name": "蜘蛛小说",
+  "@App Name": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
